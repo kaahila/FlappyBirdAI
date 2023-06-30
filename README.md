@@ -19,7 +19,7 @@ How-to
 5. use <kbd>&uarr;</kbd> or <kbd>Space</kbd> key to play and <kbd>Esc</kbd> to close the game.
 
   
-Result
+Demo
 ----------
 
 ![Flappy Bird](game.gif)
